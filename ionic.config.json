@@ -1,0 +1,8 @@
+{
+  "name": "Fretboard learner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "e09f0caa"
+}
